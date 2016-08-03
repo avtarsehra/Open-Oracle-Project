@@ -19,7 +19,7 @@ Data Parameters:  Source=Yahoo_Finance, Feed=Stock_Price, Jurisdiction=US, Label
 
 5.	The end user smart contract than uses the received data to trigger relevant payoff
 
-B. Web-Blockchain Decentralised Data Bridg (High complexity and complex to deploy):
+B. Web-Blockchain Decentralised Data Bridge (High complexity and complex to deploy):
 
 1. As you can note above, there is a key point of failure at A.4. At this point there is a use of a centralized server that receives data requests and transmits required data to a decentralized system (called Bridging Server)
 
